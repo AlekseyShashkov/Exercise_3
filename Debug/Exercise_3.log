@@ -1,0 +1,8 @@
+﻿  Exercise_3.cpp
+d:\_mine\peleng\exercise_3\exercise_3\rapidjson\document.h(958): warning C4003: не хватает фактических параметров для макроопределения "max"
+d:\_mine\peleng\exercise_3\exercise_3\rapidjson\document.h(964): warning C4003: не хватает фактических параметров для макроопределения "min"
+d:\_mine\peleng\exercise_3\exercise_3\rapidjson\document.h(965): warning C4003: не хватает фактических параметров для макроопределения "max"
+d:\_mine\peleng\exercise_3\exercise_3\rapidjson\document.h(982): warning C4003: не хватает фактических параметров для макроопределения "max"
+d:\_mine\peleng\exercise_3\exercise_3\rapidjson\document.h(983): warning C4003: не хватает фактических параметров для макроопределения "max"
+  Exercise_3.vcxproj -> D:\_Mine\Peleng\Exercise_3\Debug\Exercise_3.exe
+  Exercise_3.vcxproj -> D:\_Mine\Peleng\Exercise_3\Debug\Exercise_3.pdb (Full PDB)
